@@ -1,0 +1,20 @@
+/* This is where styles will go */
+
+/*  Global Styles */
+
+#hero {
+    width: 100%;
+    height: 400px;
+    background-color: pink;
+}
+
+#home {
+    width: 30%;
+    background-color: white;
+    margin: auto;
+    padding-top: 50px;
+}
+
+#home button {
+    align-content: center;
+}

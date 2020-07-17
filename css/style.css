@@ -172,8 +172,11 @@ form .submit:hover {
     padding-bottom: 30px;
 }
 .form-container {
+    margin-bottom: 50px;
+}
+
+.page-container {
     background-color: rgb(131, 131, 190);
-    
 }
 
 
